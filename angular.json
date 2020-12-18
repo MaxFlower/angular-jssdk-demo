@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "angular-jssdk"
+  "defaultProject": "angular-jssdk",
+  "cli": {
+    "analytics": false
+  }
 }
